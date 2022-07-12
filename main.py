@@ -1,10 +1,9 @@
-from urllib import response
 import requests
 from datetime import datetime
 import time
 
-MY_LAT = 31.9453681 
-MY_LONG = 35.928371 
+MY_LAT = 40.712776 # Enter your latitude
+MY_LONG = -74.005974 # Enter your Longitude
 
 
 def is_iss_overhead():
